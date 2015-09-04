@@ -1,0 +1,6 @@
+c:\users\asantiago\documents\visual studio 2012\Projects\pendingAprobalNotification\pendingAprobalNotification\bin\Debug\pendingAprobalNotification.exe.config
+C:\Users\asantiago\Documents\Visual Studio 2012\Projects\pendingAprobalNotification\pendingAprobalNotification\bin\Debug\pendingAprobalNotification.exe
+C:\Users\asantiago\Documents\Visual Studio 2012\Projects\pendingAprobalNotification\pendingAprobalNotification\bin\Debug\pendingAprobalNotification.pdb
+C:\Users\asantiago\Documents\Visual Studio 2012\Projects\pendingAprobalNotification\pendingAprobalNotification\obj\Debug\pendingAprobalNotification.exe
+C:\Users\asantiago\Documents\Visual Studio 2012\Projects\pendingAprobalNotification\pendingAprobalNotification\obj\Debug\pendingAprobalNotification.pdb
+C:\Users\asantiago\Documents\Visual Studio 2012\Projects\pendingAprobalNotification\pendingAprobalNotification\obj\Debug\pendingAprobalNotification.csprojResolveAssemblyReference.cache
